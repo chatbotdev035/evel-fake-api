@@ -1,0 +1,286 @@
+{
+  "categories": [
+    {
+      "id": "28759f7e-3509-4064-920a-406dd426033a",
+      "name": "Vòng Tay",
+      "createdAt": 1616839770240,
+      "updatedAt": 1616839770240
+    },
+    {
+      "id": "a29a92d8-6ea3-4954-a189-f33a572e0492",
+      "name": "Dây Chuyền",
+      "createdAt": 1616839770240,
+      "updatedAt": 1616839770240
+    },
+    {
+      "id": "73f4c23e-2c4b-437b-9a6d-d8de4ed9084d",
+      "name": "Nhẫn",
+      "createdAt": 1616839770240,
+      "updatedAt": 1616839770240
+    },
+    {
+      "id": "97458d12-f642-49da-b71f-01e764d1bb6c",
+      "name": "Khuyên tai",
+      "createdAt": 1616839770240,
+      "updatedAt": 1616839770240
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "28759f7e-3509-4064-920a-406dd426033a",
+      "id": "f521b97f-641c-49db-8886-9515a0d9f288",
+      "name": "Charm HeliSilver POWERFUL WHEEL S925 VTBN0150",
+      "price": 445000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625669362592,
+      "updatedAt": 1625669362592,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/power_wheel_429f38e322494ffabc02904d52449d04_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "28759f7e-3509-4064-920a-406dd426033a",
+      "id": "9d1a262e-340a-4c2e-ae4b-bd796c2eef6c",
+      "name": "Vòng tay bạc nam tay Gậy Như Ý Bạc s925 VTBN0050",
+      "price": 1550000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625669447684,
+      "updatedAt": 1625669447684,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/gay_nhu_y__1__cf5661b838d442b9a5110be07bfb1b5c_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "28759f7e-3509-4064-920a-406dd426033a",
+      "id": "be593fd9-e33f-4b40-b0a5-6db300c576d2",
+      "name": "Vòng tay bạc nam, nữ Blue Rose Diamond - S925",
+      "price": 612500,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625669523651,
+      "updatedAt": 1625669523651,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/blue_rose_diamond_1__72762cf984884a68b1bd688512dfb056_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "28759f7e-3509-4064-920a-406dd426033a",
+      "id": "a8430553-0cc2-46bb-ace5-db29c921279c",
+      "name": "Vòng tay bạc nam, nữ Green Diamond - S925",
+      "price": 612500,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625669580416,
+      "updatedAt": 1625669580416,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/green_diamond_1__0642d7ab7bd742eba4a27bdbc35964a6_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "28759f7e-3509-4064-920a-406dd426033a",
+      "id": "fd0780f3-ab80-40a8-8e71-7415d7bbfa59",
+      "name": "Vòng tay bạc nam, nữ HeliSilver BAMBOO BLING S925",
+      "price": 3450000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625669641986,
+      "updatedAt": 1625669641986,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/bamboo__1__92b4aafcd59f49a099b79b3ecac51549_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "a29a92d8-6ea3-4954-a189-f33a572e0492",
+      "id": "29ca1216-3fa8-4a9c-83e4-c44870346b65",
+      "name": "Mặt dây chuyền bạc nam, nữ HeliSilver SMILE S925 DCBN0138",
+      "price": 495000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625669781456,
+      "updatedAt": 1625669781456,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/4_2d7634ff712a4b8e8ed0be682984cbcc_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "a29a92d8-6ea3-4954-a189-f33a572e0492",
+      "id": "91db259c-344a-4632-84f1-0f0f20331258",
+      "name": "Mặt dây chuyền bạc nam, nữ HeliSilver COMPASS KEY S925 DCBN0137",
+      "price": 795000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625669851537,
+      "updatedAt": 1625669851537,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/compass_key__1__4371d26cada5449cbf4816c073cbcef6_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "a29a92d8-6ea3-4954-a189-f33a572e0492",
+      "id": "a6273dd5-90cb-4372-a4a0-af4dda43c323",
+      "name": "Dây chuyền nam, nữ Helios Cross New v2 DCN188",
+      "price": 295000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625669889808,
+      "updatedAt": 1625669889808,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/day_chuyen_nam__nu_helios_cross_new_v2_dcn188_1__f7f85986d7164c5fbce2ed7d5378419d_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "a29a92d8-6ea3-4954-a189-f33a572e0492",
+      "id": "1ff897d5-cc72-4cac-8f4e-660a0cf792de",
+      "name": "Dây chuyền nam, nữ Helios Royal Key DCN189",
+      "price": 325000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625669955248,
+      "updatedAt": 1625669955248,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/day_chuyen_nam__nu_helios_royal_key_dcn189_1__96085c377cd945c1bcdd8284a8f67d05_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "a29a92d8-6ea3-4954-a189-f33a572e0492",
+      "id": "69cb861d-a1cb-466a-a978-abd77c32014d",
+      "name": "Dây chuyền nam, nữ Helios Cross Bird DCN187",
+      "price": 295000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625670147987,
+      "updatedAt": 1625670147987,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/day_chuyen_nam__nu_helios_cross_bird_dcn187_1__96fba7a80bbf412494460eff88bd60af_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "73f4c23e-2c4b-437b-9a6d-d8de4ed9084d",
+      "id": "03a5f6f5-f397-4201-9191-e05b44836f68",
+      "name": "Nhẫn bạc nam HeliSilver Dragon eye Freesize S925",
+      "price": 645000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625670213560,
+      "updatedAt": 1625670213560,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/dragon_eye_-_orange_0e6f4a39b9ff4bbaac00702df3253297_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "73f4c23e-2c4b-437b-9a6d-d8de4ed9084d",
+      "id": "50587098-0c91-4f3d-be15-cb09725be10a",
+      "name": "Nhẫn bạc nam HeliSilver Dragon Ring Freesize S925 NBN0017",
+      "price": 675000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625670276381,
+      "updatedAt": 1625670276381,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/dragon_ring_2efed4ca942846f9bdde2189036d566b_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "73f4c23e-2c4b-437b-9a6d-d8de4ed9084d",
+      "id": "5f3ad07d-b76d-47c2-8980-a80452b14fea",
+      "name": "Nhẫn bạc nam HeliSilver Energetic Tiger S925 NBN0244",
+      "price": 1145000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625670332164,
+      "updatedAt": 1625670332164,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/energetic_tiger_363fc9a3cd7d44509d30cf0d4e5dfc95_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "73f4c23e-2c4b-437b-9a6d-d8de4ed9084d",
+      "id": "9628bd8c-363f-426e-a594-5747b9e9124b",
+      "name": "Nhẫn bạc nam HeliSilver Gothic Amazonite",
+      "price": 595000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625670371399,
+      "updatedAt": 1625670371399,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/gothic_amazonite_1__2f9fbf3f1f7244d28b422bbcc5eebbce_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "73f4c23e-2c4b-437b-9a6d-d8de4ed9084d",
+      "id": "ab43ddba-a389-45af-9ad6-a187cc97cda7",
+      "name": "Nhẫn bạc nam HeliSilver Gothic Lapis Lazuli",
+      "price": 595000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625670402726,
+      "updatedAt": 1625670402726,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/gothic_lapis_lazuli_0e69f9329f614d058f50a7e432a6c1dd_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "97458d12-f642-49da-b71f-01e764d1bb6c",
+      "id": "d9243fe6-bef1-4b80-abd8-1fd78dd542f5",
+      "name": "Khuyên tai bạc nam, nữ HeliSilver A bạc S925 KTB239",
+      "price": 276500,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625670490039,
+      "updatedAt": 1625670490039,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/a_bac_1b68445cd2ae418b9b074687a8af536a_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "97458d12-f642-49da-b71f-01e764d1bb6c",
+      "id": "5e1af2a5-b3cb-494d-8a60-1a09da799d92",
+      "name": "Khuyên tai bạc nam, nữ HeliSilver Angel Wings S925 KTB271",
+      "price": 345000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625670535696,
+      "updatedAt": 1625670535696,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/angel_wing_35156273c85b47cbb717276eed8e8f7b_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "97458d12-f642-49da-b71f-01e764d1bb6c",
+      "id": "052e7f3c-d33d-4c64-bf80-da3f69a117fa",
+      "name": "Khuyên tai bạc nam, nữ HeliSilver ANKH Key S925",
+      "price": 395000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625670564237,
+      "updatedAt": 1625670564237,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/ankh_key__1__1e4877c8c8b2420dbc7fa83a20b43d9b_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "97458d12-f642-49da-b71f-01e764d1bb6c",
+      "id": "17ab6236-c8e3-4298-b111-66f0ddf5d8dc",
+      "name": "Khuyên tai bạc nam, nữ HeliSilver Athena S925 KTB198",
+      "price": 295000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625670602549,
+      "updatedAt": 1625670602549,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/athena_b560c632f4414f878143625509b15478_large.jpg",
+      "orderCount": 0
+    },
+    {
+      "categoryId": "97458d12-f642-49da-b71f-01e764d1bb6c",
+      "id": "e7861ff8-2e10-421a-930f-9eff57a93e61",
+      "name": "Khuyên tai bạc nam, nữ HeliSilver B bạc S925 KTB234",
+      "price": 395000,
+      "description": "Hiện sản phẩm này chưa có mô tả chi tiết",
+      "createdAt": 1625670636522,
+      "updatedAt": 1625670636522,
+      "thumbnailUrl": "http://product.hstatic.net/1000213320/product/b_bac__1__a4b45204d8df47158434ee83525e3e95_large.jpg",
+      "orderCount": 0
+    }
+  ],
+  "orders": [
+    {
+      "id": "7354d15a-6333-458e-b7a8-1171bd864a4e",
+      "userId": "03f3a191-e75a-423b-855d-c7a6236bebdd",
+      "createdAt": 1616839770240,
+      "foods": [
+        {
+          "foodName": "Cơm tấm thịt nướng",
+          "qty": 2,
+          "price": 930
+        }
+      ],
+      "total": 930,
+      "status": "pending"
+    }
+  ],
+  "users": [
+    {
+      "id": "ab7ed49b-bd61-4626-b2a2-d12d684ca0ec",
+      "username": "Admin",
+      "password": "admin",
+      "fullName": "Mariele Pottie"
+    },
+    {
+      "id": "03f3a191-e75a-423b-855d-c7a6236bebdd",
+      "username": "user1",
+      "password": "123456",
+      "fullName": "Mariele Pottie"
+    },
+    {
+      "userId": "37df38e0-5f06-4c9b-ab7a-524eedfa01c5",
+      "userName": "user2",
+      "password": "123456",
+      "fullName": "Bibbie Ackermann"
+    }
+  ]
+}
